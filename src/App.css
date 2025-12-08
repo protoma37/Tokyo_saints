@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Knewave;
+  src: url(./assets/fonts/knewave.ttf);
+}
+
+.special-font {
+  font-family: Knewave, cursive;
+}
+
+.center-effect {
+  transform: translateX(-50%);
+}
+
+.w-48p {
+  width: 48%;
+}
+
+.wallet-connect-button {
+  background-color: #0067C0 !important;
+}
